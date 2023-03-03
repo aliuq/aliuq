@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=aliuq&count_private=true&show_icons=true&theme=vue-dark">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliuq&layout=compact&theme=vue-dark">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliuq&count_private=true&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliuq&hide=html,css&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aliuq" />
+</a>
