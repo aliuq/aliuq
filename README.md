@@ -15,9 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ![1](https://github-readme-stats.vercel.app/api?username=aliuq&count_private=true&show_icons=true&theme=transparent)
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliuq&hide=html,css&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aliuq" />
-</a>
+
+![2](https://github-readme-stats.vercel.app/api/top-langs/?username=aliuq&hide=html,css&layout=compact)
